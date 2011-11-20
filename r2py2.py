@@ -2,7 +2,7 @@
 
 """
 R2Py2 - a cross direction CSS LTR <-> RTL converter written in python (for those without Node.js)
-Idea by: Dustin Diaz 2011
+Idea by: Dustin Diaz 2011, https://github.com/ded/R2
 Python version: kensaggy
 https://github.com/kensaggy/r2py2
 """
